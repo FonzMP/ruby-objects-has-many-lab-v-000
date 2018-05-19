@@ -14,7 +14,7 @@ class Post
     if !self.author.name
       nil
     else
-      self.author_name
+      self.author.name
     end
   end
 
