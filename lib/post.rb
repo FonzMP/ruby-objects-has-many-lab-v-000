@@ -10,4 +10,7 @@ class Post
     @title
   end
 
+  def author_name
+    self.author_name
+
 end
